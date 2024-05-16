@@ -15,4 +15,4 @@ console.log("ampao แม่งควย")
 console.log("ampao แม่งควย")
 console.log("ampao แม่งควย")
 
-frfrrrrg
+frfrrrrg ้้้้หกหกหกหหก
