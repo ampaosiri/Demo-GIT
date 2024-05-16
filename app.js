@@ -13,3 +13,4 @@ console.log("ampao แม่ง--สู้ๆอย่ายอมแพ้")
 
 console.log("ampao แม่งควย")
 console.log("ampao แม่งควย")
+console.log("ampao แม่งควย")
